@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hello!</title>
+        <meta http-equiv="content-type" content="text/html" charset="utf-8">
+        <meta name="description" lang="en" content="Описание веб-стр">
+        <meta name="author" content="Имя">
+        <meta name="robots" content="index, follow">
+      
+        
+    </head>
+    <body background="https://upload.wikimedia.org/wikipedia/ru/thumb/a/a7/Gubka_Bob_Logo_RU.svg/1280px-Gubka_Bob_Logo_RU.svg.png">
+        <p>
+            <img src="https://images.prom.ua/2320573674_w640_h640_maska-gubka-.jpg" alt="bob" border="10" align="left" width="300" hspace="50"> «Гу́бка Боб Квадра́тные Штаны́», также известный как «Спанч Боб Сквэр Пэнтс» (англ. SpongeBob SquarePants) — американский мультипликационный сериал, который транслируется на телеканале «Nickelodeon». Появился в эфире 1 мая 1999 года и стал одной из самых популярных анимационных программ телевидения[3]. Это первый по продолжительности показа анимированный сериал телеканала «Nickelodeon», обогнавший «Ох уж эти детки!» (англ. Rugrats) — на данный момент он насчитывает 12 полных сезонов. В июле 2019 года мультсериал был продлён на тринадцатый сезон.
+            
+        </p>
+        
+        
+        
+        <h2>Hello, world!</h2>
+    </body>
+<html>
